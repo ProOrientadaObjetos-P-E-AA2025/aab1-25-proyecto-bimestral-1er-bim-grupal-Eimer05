@@ -1,0 +1,32 @@
+CARRERA;Administración de Empresas;50;65.00;false;0.00;0;0;0
+CARRERA;Agropecuaria;40;60.00;false;0.00;0;0;0
+CARRERA;Alimentos;40;60.00;false;0.00;0;0;0
+CARRERA;Artes Escénicas;30;50.00;true;30.00;0;0;0
+CARRERA;Artes Visuales;30;50.00;true;30.00;0;0;0
+CARRERA;Biología;35;60.00;false;0.00;0;0;0
+CARRERA;Contabilidad y Auditoría;50;65.00;false;0.00;0;0;0
+CARRERA;Derecho;40;65.00;false;0.00;0;0;0
+CARRERA;Economía;40;65.00;false;0.00;0;0;0
+CARRERA;Finanzas;40;65.00;false;0.00;0;0;0
+CARRERA;Geología;35;60.00;false;0.00;0;0;0
+CARRERA;Ingeniería Ambiental;40;65.00;false;0.00;0;0;0
+CARRERA;Pedagogía de los Idiomas Nacionales y Extranjeros;30;50.00;true;30.00;0;0;0
+CARRERA;Psicopedagogía;30;50.00;true;30.00;0;0;0
+CARRERA;Telecomunicaciones;40;65.00;false;0.00;0;0;0
+CARRERA;Arquitectura;30;65.00;false;0.00;0;0;0
+CARRERA;Bioquímica y Farmacia;30;65.00;false;0.00;0;0;0
+CARRERA;Computación;40;65.00;false;0.00;2;1;2
+CARRERA;Enfermería;40;65.00;false;0.00;1;0;1
+CARRERA;Fisioterapia;30;60.00;false;0.00;0;0;0
+CARRERA;Gastronomía;35;50.00;true;30.00;0;0;0
+CARRERA;Ingeniería Civil;40;65.00;false;0.00;0;0;0
+CARRERA;Ingeniería Industrial;40;65.00;false;0.00;0;0;0
+CARRERA;Ingeniería Química;35;65.00;false;0.00;0;0;0
+CARRERA;Medicina;30;75.00;false;0.00;0;0;0
+CARRERA;Nutrición y Dietética;35;60.00;false;0.00;0;0;0
+CARRERA;Psicología;40;65.00;false;0.00;0;0;0
+CARRERA;Psicología Clínica;30;65.00;false;0.00;0;0;0
+POSTULANTE;edfwf;75.00;false;true;25.00;Computación
+POSTULANTE;Bryan;65.00;false;true;25.00;Computación
+POSTULANTE;Eimer;85.00;false;false;0.00;Enfermería
+POSTULANTE;Raul;45.00;false;true;25.00;Computación
